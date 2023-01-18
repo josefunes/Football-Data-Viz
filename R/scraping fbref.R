@@ -17,4 +17,3 @@ dplyr::glimpse(big5_player_passing)
 LaLiga_fbref_passing_stats <- big5_player_passing %>% 
   filter(Comp=="La Liga")
 write_csv(LaLiga_fbref_passing_stats, "LaLiga_fbref_passing_stats.csv")
-
