@@ -40,6 +40,10 @@ Visualizations in different languages (R and Python) and programmes (Tableau and
   * #### Assists per 90 min vs xA per Player.
 
   ![Assists per 90 min vs xA per Player](https://github.com/josefunes/Football-Data-Viz/blob/main/Tableau/Images/Asistencias%20por%2090%20min%20vs%20Asistencias%20esperadas.PNG?raw=true)
+  
+  * #### [LaLiga Dashboard.](https://public.tableau.com/app/profile/jos.antonio.funes.p.rez/viz/LaLigaSantander22-23FootballSoccerDashboard/Inicio1)
+
+  ![LaLiga Dashboard](https://github.com/josefunes/Football-Data-Viz/blob/main/Tableau/Images/LaLiga%20Dashboard.PNG?raw=true)
 
 * ### [Power BI projects](#Power-BI-projects)
 
